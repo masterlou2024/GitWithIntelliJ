@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CS6300:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CS6300_jar</output-path>
+    <root id="archive" name="CS6300.jar">
+      <element id="module-output" name="CS6300" />
+    </root>
+  </artifact>
+</component>
