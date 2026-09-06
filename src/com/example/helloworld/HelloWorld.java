@@ -6,6 +6,8 @@ public class HelloWorld {
 
         IO.println("testing stashing...");
 
+        IO.println("testing fetch...");
+
         IO.println("Hello World");
     }
 }
